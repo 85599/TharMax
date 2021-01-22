@@ -33,6 +33,8 @@ Although I have created a fully functioning app, there are many things we can bu
 
 ![TharMax - section 4: Option](https://github.com/85599/TharMax/blob/master/Screenshots/Option.png)
 
+# Guys, do give it a try!
+
 
 
 
